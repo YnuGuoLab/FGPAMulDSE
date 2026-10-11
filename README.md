@@ -5,6 +5,11 @@ This repository contains the Verilog implementations, Python evaluation scripts,
 The framework combines low-area exact and approximate 4 × 4 multipliers, matrix-based error evaluation, and circuit-aware hardware prediction to explore composed 8 × 8 architectures.
 
 ## Repository Structure
+## Download
+
+[Download the full code and data package (v1.0.0)](https://github.com/YnuGuoLab/FGPAMulDSE/releases/tag/v1.0.0)
+
+Please download `FGPAMulDSE.zip` (339 MB) under Assets.
 
 ```text
 FGPAMulDSE/
